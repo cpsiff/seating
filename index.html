@@ -5,29 +5,54 @@
         <Title>Seating Chart</Title>
         <link rel="stylesheet" href="style.css">
     </head>
-    <h1>Table 1</h1>
-    <p>
-        Carter Sifferman <br>
-        Lyndsey Standage <br>
-        Test Person <br><br>
-    </p>
-    <h1>Table 2</h1>
-    <p>
-        Another Person <br>
-        Dookie Doo <br>
-        Poopie Poo <br><br>
-    </p>
-    <h1>Table 3</h1>
-    <h1>Table 4</h1>
-    <h1>Table 5</h1>
-    <h1>Table 6</h1>
-    <h1>Table 7</h1>
-    <h1>Table 8</h1>
-    <h1>Table 9</h1>
-    <h1>Table 10</h1>
-    <h1>Table 11</h1>
-    <h1>Table 12</h1>
-    <h1>Table 13</h1>
-    <h1>Table 14</h1>
-    <h1>Table 15</h1>
+
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for your name...">
+
+    <table id="myTable">
+      <tr class="header">
+        <th style="width:70%;">Name</th>
+        <th style="width:30%;">Table</th>
+      </tr>
+      <tr>
+        <td>Carter Sifferman</td>
+        <td>Table 1</td>
+      </tr>
+      <tr>
+        <td>Lyndsey Standage</td>
+        <td>Table 1</td>
+      </tr>
+      <tr>
+        <td>Dookie Do</td>
+        <td>Table 1</td>
+      </tr>
+      <tr>
+        <td>Poopie Poo</td>
+        <td>Table 1</td>
+      </tr>
+    </table> 
+
+
+    <script>
+    function myFunction() {
+      // Declare variables
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("myInput");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("myTable");
+      tr = table.getElementsByTagName("tr");
+    
+      // Loop through all table rows, and hide those who don't match the search query
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[0];
+        if (td) {
+          txtValue = td.textContent || td.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+    }
+    </script>
 </html>
