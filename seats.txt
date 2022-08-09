@@ -45,7 +45,7 @@ Gonzalez Mesial Table 15
 Gooding Hannah Table 1
 Griffin Lisa Table 20
 Guest Ben's Table 16
-Guest Caroline's Table 9
+ARGuest Caroline's Table 9
 Hall Allison Table 11
 Hall Linda Table 7
 Hall Tom Table 7
@@ -58,7 +58,6 @@ Haralson Kathy Table 3
 Haralson Peg Table 4
 Haralson Shannon Table 3
 Haralson Susan Table 3
-Hayter Grace Table 19
 Heckman Blake Table 19
 Hightower CE Table 6
 Hightower Casen Table 18
@@ -82,16 +81,15 @@ Keating Garrett Table 17
 Kelsey Audrey Table 5
 Kure Jenna Table 16
 Kure Roger Table 16
-Lemon Ben Table 2
-Lemon Emily Table 2
+LeMon Ben Table 2
+LeMon Emily Table 2
 Light Grayson Table 13
 Loklu Burak Table 17
-Lucas Daniel
-Lucus Samantha
 Maes Earl Table 10
 Maupin Christy Table 16
 Maupin John Table 16
 McCormick Jack Table 1
+McGowan Craig Table 11
 McGowan Naomi Table 11
 McGowan Paul Table 11
 Melone Gigi Table 17
@@ -100,15 +98,14 @@ Miller-Holmes Eva Table 14
 Mitchell Ben Table 16
 Molica Aubrey Table 5
 Molica Camilla Table 5
-Molica Chris Table 3
+Molica Christian Table 3
 Molica Matt Table 5
 Molica Nathan Table 5
 Molica Tricia Table 3
 Molica Veazey Table 5
 Mooney Evan Table 20
-Myers Lucas Table 19
-Nelson Julie Table 7
-Nelson Ryan Table 7
+Nelson Julie Table 6
+Nelson Ryan Table 6
 Nicholl Sarah Table 18
 Oliver Megan Table 19
 Overland Max Table 18
@@ -117,13 +114,12 @@ Owens Kathleen Table 12
 Ramsey-Standage Hannah Table 12
 Reed Alex Table 13
 Reed Brooke Table 13
-Reed Joey
+Reed Joey Table 13
 Robbins Kenzie Table 1
 Sare Teresa Table 13
 Saunders John Table 20
 Shoemaker Greg Table 11
 Shoemaker Kelly Table 11
-Sifferman Carter Table 0
 Sifferman Craig Table 11
 Sifferman Owen Table 2
 Smith Maddie Table 19
@@ -131,10 +127,10 @@ Standage Brian Table 12
 Standage Chayne Table 12
 Standage Dave Table 12
 Standage Erin Table 12
-Standage Lyndsey Table 0
 Standage Quincy Table 13
 Standage Tamra Table 12
 Stark Evan Table 17
+Sullivan Dakota Table 17
 Taylor Richard Table 18
 Toth Rachel Table 9
 Guest of Rachel Toth Table 9
